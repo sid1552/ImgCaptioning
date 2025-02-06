@@ -1,0 +1,502 @@
+[
+    {
+        "image_url": "https://farm3.staticflickr.com/2078/2626977325_2b7696990c_o.jpg",
+        "actual_caption": "Moreton Bay Fig 1877",
+        "generated_caption": "a sign in the middle of a forest"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3080/2627795780_2517b53262_o.jpg",
+        "actual_caption": "Santa Barbara",
+        "generated_caption": "a large tree with many branches"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3103/2762593799_09eb828f52_o.jpg",
+        "actual_caption": "Santa Barbara",
+        "generated_caption": "a large tree with many branches"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3181/2626979987_d6895f101c_o.jpg",
+        "actual_caption": "Santa Barbara",
+        "generated_caption": "a tree with a lot of branches"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3007/2701863545_8f759a45d4_o.jpg",
+        "actual_caption": "Santa Barbara",
+        "generated_caption": "a large tree with many branches"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3264/2627798290_50060ce3bb_o.jpg",
+        "actual_caption": "Santa Barbara",
+        "generated_caption": "a plaque on the ground"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3282/2626982337_439dc5b629_o.jpg",
+        "actual_caption": "Santa Barbara",
+        "generated_caption": "a man riding a skateboard down a tree"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3148/2626983575_f0e78c89f8_o.jpg",
+        "actual_caption": "Santa Barbara",
+        "generated_caption": "a tree with a very big trunk"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3128/2627801768_fc5d5d91ba_o.jpg",
+        "actual_caption": "Santa Barbara",
+        "generated_caption": "a plaque on the sidewalk"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3104/2626985925_8c1cb6e58b_o.jpg",
+        "actual_caption": "Santa Barbara",
+        "generated_caption": "a large tree with many branches"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3261/2626987089_4f1b97f69b_o.jpg",
+        "actual_caption": "Santa Barbara",
+        "generated_caption": "a close up of a large stone sculpture"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3277/2627805194_701c17ff9c_o.jpg",
+        "actual_caption": "Santa Barbara",
+        "generated_caption": "a tree with a blue sky in the background"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3181/2627807506_d3de8312e5_o.jpg",
+        "actual_caption": "Santa Barbara",
+        "generated_caption": "a wooden frame"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/97/205866755_0e77cc09f6_o.jpg",
+        "actual_caption": "Glasgow",
+        "generated_caption": "a statue of a man sitting on a bench"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/76/203187193_7d9ba7d2ff_o.jpg",
+        "actual_caption": "Glasgow",
+        "generated_caption": "a statue of a man on top of a building"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/73/205862590_43bea02527_o.jpg",
+        "actual_caption": "Glasgow",
+        "generated_caption": "a tall tower with a clock on top"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/74/205858424_904b2dd963_o.jpg",
+        "actual_caption": "Glasgow",
+        "generated_caption": "a tall building with a clock on the top"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/76/204092716_d85392e288_o.jpg",
+        "actual_caption": "Glasgow",
+        "generated_caption": "a pink flower with a bee on it"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/71/205858470_9a92229215_o.jpg",
+        "actual_caption": "Glasgow",
+        "generated_caption": "a large grassy field with a house in the background"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/69/205858503_55b5f06438_o.jpg",
+        "actual_caption": "Glasgow",
+        "generated_caption": "a bridge over a river with a castle in the background"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/88/205858543_d821d83398_o.jpg",
+        "actual_caption": "Glasgow",
+        "generated_caption": "a large room filled with lots of people"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/70/205858578_24462f46ac_o.jpg",
+        "actual_caption": "Heads Up",
+        "generated_caption": "a large room with many white balloons floating in the air"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/72/204095815_23641f61c7_o.jpg",
+        "actual_caption": "Steak & Ale Pie",
+        "generated_caption": "a plate with meat and maso sauce on it"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/65/205858625_06a7590529_o.jpg",
+        "actual_caption": "Glasgow",
+        "generated_caption": "a statue of a man sitting on top of a statue"
+    },
+    {
+        "image_url": "https://farm2.staticflickr.com/1439/997622638_c8fb6bc8e8_o.jpg",
+        "actual_caption": "",
+        "generated_caption": "two men standing in front of a fence"
+    },
+    {
+        "image_url": "https://farm2.staticflickr.com/1095/997623170_585a6ece79_o.jpg",
+        "actual_caption": "",
+        "generated_caption": "a crowd of people"
+    },
+    {
+        "image_url": "https://farm2.staticflickr.com/1013/997623674_a9098511b9_o.jpg",
+        "actual_caption": "",
+        "generated_caption": "a crowd of people"
+    },
+    {
+        "image_url": "https://farm2.staticflickr.com/1377/997624052_6e34a0a102_o.jpg",
+        "actual_caption": "",
+        "generated_caption": "two men sitting on the grass"
+    },
+    {
+        "image_url": "https://farm2.staticflickr.com/1300/996779457_4d0f4ad2e3_o.jpg",
+        "actual_caption": "",
+        "generated_caption": "a crowd of people sitting on the grass"
+    },
+    {
+        "image_url": "https://farm2.staticflickr.com/1322/997626340_32668a3117_o.jpg",
+        "actual_caption": "",
+        "generated_caption": "a man standing in front of a crowd of people"
+    },
+    {
+        "image_url": "https://farm2.staticflickr.com/1152/997627110_11e583412e_o.jpg",
+        "actual_caption": "",
+        "generated_caption": "a large fireworks is lit up the sky"
+    },
+    {
+        "image_url": "https://farm2.staticflickr.com/1100/997627640_d1cfc36311_o.jpg",
+        "actual_caption": "",
+        "generated_caption": "a fireworks is lit up in the night sky"
+    },
+    {
+        "image_url": "https://farm2.staticflickr.com/1029/997629588_a08c2c70c1_o.jpg",
+        "actual_caption": "",
+        "generated_caption": "a large fireworks is lit up the sky"
+    },
+    {
+        "image_url": "https://farm2.staticflickr.com/1204/997630088_9aa070c2cc_o.jpg",
+        "actual_caption": "",
+        "generated_caption": "a fireworks is lit up in the night sky"
+    },
+    {
+        "image_url": "https://farm2.staticflickr.com/1414/996784153_7b06ee42e1_o.jpg",
+        "actual_caption": "",
+        "generated_caption": "a crowd of people watching a fireworks display"
+    },
+    {
+        "image_url": "https://farm2.staticflickr.com/1099/997631462_338da4e052_o.jpg",
+        "actual_caption": "",
+        "generated_caption": "fireworks in the sky"
+    },
+    {
+        "image_url": "https://farm2.staticflickr.com/1034/996785737_1728ec8c69_o.jpg",
+        "actual_caption": "",
+        "generated_caption": "fireworks in the sky"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3270/2385391331_c845d0dc70_o.jpg",
+        "actual_caption": "Adams flume showing elevation of flume in relation to river",
+        "generated_caption": "a black and white photo of a bridge over a river"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3128/2386289908_1e74a3a7bd_o.jpg",
+        "actual_caption": "848 - Klamath",
+        "generated_caption": "a group of men working on a roof"
+    },
+    {
+        "image_url": "https://farm3.staticflickr.com/2243/2385461955_2bff6ced6c_o.jpg",
+        "actual_caption": "Adams Pumping Plant - Loading concrete bucket from 4. cu. yd. transit mix truck for wall pour",
+        "generated_caption": "a crane is lifting a large piece of wood"
+    },
+    {
+        "image_url": "https://farm3.staticflickr.com/2199/2388496216_dff51727ab_o.jpg",
+        "actual_caption": "Break in C-Canal lining, CCC enrollees repairing the break",
+        "generated_caption": "a group of men standing on top of a hill"
+    },
+    {
+        "image_url": "https://farm3.staticflickr.com/2338/2388512800_99171f1b49_o.jpg",
+        "actual_caption": "Clear Lake Dam - Large stone in self-dumping car",
+        "generated_caption": "a black and white photo of men working on a train"
+    },
+    {
+        "image_url": "https://farm3.staticflickr.com/2275/2387687305_45696fdd17_o.jpg",
+        "actual_caption": "Clear Lake Dam - Work horses starting for dam",
+        "generated_caption": "a group of men standing around a wagon"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3123/2388521456_b2f17d63e5_o.jpg",
+        "actual_caption": "Diversion of first water into Government Laterals",
+        "generated_caption": "two men standing next to a horse in a field"
+    },
+    {
+        "image_url": "https://farm3.staticflickr.com/2014/2387696837_8434469bb4_o.jpg",
+        "actual_caption": "Enterprise Power Plant - Placing concrete in forebay paving",
+        "generated_caption": "a black and white photo of a construction site"
+    },
+    {
+        "image_url": "https://farm3.staticflickr.com/2375/2387702925_1fd3d98420_o.jpg",
+        "actual_caption": "Excavation, Main Canal, Division 2",
+        "generated_caption": "a group of horses pulling a wagon through a dirt field"
+    },
+    {
+        "image_url": "https://farm3.staticflickr.com/2199/2387709159_285807df7d_o.jpg",
+        "actual_caption": "Gerber Dam - General view looking north of water going over spillway for the first time",
+        "generated_caption": "a black and white photo of a waterfall"
+    },
+    {
+        "image_url": "https://farm3.staticflickr.com/2091/2388544956_3dcab71646_o.jpg",
+        "actual_caption": "Link River Dam",
+        "generated_caption": "a black and white photo of a bridge over a river"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3242/2387719253_dba0773a56_o.jpg",
+        "actual_caption": "Looking up canal from upper portal of tunnel",
+        "generated_caption": "a black and white photo of a crane on a construction site"
+    },
+    {
+        "image_url": "https://farm3.staticflickr.com/2071/2388553506_5272908527_o.jpg",
+        "actual_caption": "Lost River Diversion Channel Headworks - Placing concrete in floor slab gate section",
+        "generated_caption": "a black and white photo of a crane in a construction site"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3257/2387731867_011578820b_o.jpg",
+        "actual_caption": "Lower Cost Canal Lining - A-3 Lateral",
+        "generated_caption": "a black and white photo of a dirt pit"
+    },
+    {
+        "image_url": "https://farm3.staticflickr.com/2349/2387735207_a5c3a98cb5_o.jpg",
+        "actual_caption": "Main Canal above headgates, showing temporary pass, used for delivering water to the canal",
+        "generated_caption": "a large crane is lifting a large rock into the water"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3053/2387740715_f77922a217_o.jpg",
+        "actual_caption": "Treatment of moss in the A-4 Lateral with benechlor 3C",
+        "generated_caption": "a black and white photo of a man in a hat and a woman in a hat and a man"
+    },
+    {
+        "image_url": "https://farm3.staticflickr.com/2303/2388573808_3707efa693_o.jpg",
+        "actual_caption": "Tule Lake Sump - Sump sounding job",
+        "generated_caption": "a man standing next to a truck on a road"
+    },
+    {
+        "image_url": "https://farm4.staticflickr.com/3156/2388583308_c2bf3e0ec4_o.jpg",
+        "actual_caption": "An employee inside one of the pump houses in Tulelake",
+        "generated_caption": "a man is working on a large machine"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/56/181482729_2519fcac29_o.jpg",
+        "actual_caption": "Hungry and No Money, but Can Give You a Smile!",
+        "generated_caption": "a young boy with a black hair"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/74/182307006_a5aa7f4c74_o.jpg",
+        "actual_caption": "Uncle Horizon and little boys",
+        "generated_caption": "a man taking a picture of a boy"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/78/190620212_56297b0107_o.jpg",
+        "actual_caption": "Your World, My World",
+        "generated_caption": "a young girl with a red necklace and black dress"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/73/182421476_ebb1387fbc_o.jpg",
+        "actual_caption": "The Old Testament and the Adytum.",
+        "generated_caption": "a large roll of paper"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/61/184603954_dee96e7606_o.jpg",
+        "actual_caption": "The Pillar",
+        "generated_caption": "a black and white photo of a building"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/68/189264494_5b4623394e_o.jpg",
+        "actual_caption": "Stoney Roof Window",
+        "generated_caption": "a window with a light coming through it"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/47/189264495_41edc316b7_o.jpg",
+        "actual_caption": "Jame' Mosque",
+        "generated_caption": "a church with a cross and a light shining through the window"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/72/180526610_a04aedf567_o.jpg",
+        "actual_caption": "All of Us in Masjed Jame'",
+        "generated_caption": "a group of people standing around a large stone vase"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/55/183370950_752d713a49_o.jpg",
+        "actual_caption": "The \"Don't catch my portrait\" Lady in Isfahan!",
+        "generated_caption": "a woman wearing a scarf"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/77/180526609_94b6857933_o.jpg",
+        "actual_caption": "All of Us in AliGholi-Agha Traditional Bath",
+        "generated_caption": "a group of people sitting around a fountain"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/52/191457571_d686d4dc9f_o.jpg",
+        "actual_caption": "Wall painting of an old war",
+        "generated_caption": "the mural in the entrance to the palace"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/54/181603598_96c56aec3b_o.jpg",
+        "actual_caption": "Oldy Style",
+        "generated_caption": "a man and woman standing next to each other people"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/78/181604220_27c4764bbc_o.jpg",
+        "actual_caption": "The \"three\" of us",
+        "generated_caption": "a man wearing a black shirt"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/59/181606097_acc40afc31_o.jpg",
+        "actual_caption": "Practicing my breathings...",
+        "generated_caption": "a woman sitting in a pool"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/60/181602777_70864c5e39_o.jpg",
+        "actual_caption": "Country Music",
+        "generated_caption": "a group of men playing music"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/62/181627669_47628ba10f_o.jpg",
+        "actual_caption": "Yaniv having a lunch break at Yosemite Park",
+        "generated_caption": "a man sitting on a rock"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/62/181629330_eb9e510ec8_o.jpg",
+        "actual_caption": "Yosemite Valley",
+        "generated_caption": "a clear blue sky"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/63/181630617_59ed57d235_o.jpg",
+        "actual_caption": "Michal at the entrance to the Yosemite Valley",
+        "generated_caption": "a woman standing in front of a mountain"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/76/181630794_54c8e36e8a_o.jpg",
+        "actual_caption": "Little Squirrel",
+        "generated_caption": "a small animal sitting on a rock in the grass"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/73/181632679_04506bd112_o.jpg",
+        "actual_caption": "Yosemite Falls upclose",
+        "generated_caption": "a tall mountain"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/55/181633887_7296074d3f_o.jpg",
+        "actual_caption": "Yosemite Falls",
+        "generated_caption": "a tall waterfall"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/47/181635295_1081044b9a_o.jpg",
+        "actual_caption": "Beautiful wood formations",
+        "generated_caption": "a close up of a tree bark"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/59/181635518_5cf3334cc7_o.jpg",
+        "actual_caption": "Ssssssssssnake....",
+        "generated_caption": "a snake is eating on the ground"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/55/181637004_8b10ded61c_o.jpg",
+        "actual_caption": "A view from Glacier Point over Yosemite Valley",
+        "generated_caption": "a view of a mountain"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/57/181639429_aede784cd9_o.jpg",
+        "actual_caption": "View from Glacier Point on the Valley",
+        "generated_caption": "a valley with a waterfall"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/52/181640606_65a1be2988_o.jpg",
+        "actual_caption": "Yosemite Falls with rainbow",
+        "generated_caption": "a waterfall in the middle of a forest"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/49/181641817_38df8646db_o.jpg",
+        "actual_caption": "Michal in front, Yosemite falls in background",
+        "generated_caption": "a woman with long hair"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/65/181643953_71658fe8d4_o.jpg",
+        "actual_caption": "Falls and falls...",
+        "generated_caption": "a waterfall in the middle of a forest"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/21/181645373_37de2a08cb_o.jpg",
+        "actual_caption": "me and my roomy at Yosemite Park",
+        "generated_caption": "a woman standing on a rock"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/45/181645575_7461c71ca0_o.jpg",
+        "actual_caption": "Caught me nibbling...",
+        "generated_caption": "a ground squirrel sitting on the ground"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/71/181647714_bd613206de_o.jpg",
+        "actual_caption": "Sequia Trees at Yosemite Park",
+        "generated_caption": "a large tree"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/73/181626113_2afbd1682c_o.jpg",
+        "actual_caption": "Tete-a-tete with a young Bambii",
+        "generated_caption": "a small deer standing in the woods"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/66/182032412_47eb201af7_o.jpg",
+        "actual_caption": "4th of July 2006_00",
+        "generated_caption": "a woman sitting on the grass"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/56/182032437_5eb0414a06_o.jpg",
+        "actual_caption": "4th of July 2006_01",
+        "generated_caption": "a woman and a baby sitting on a blanket"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/56/182032474_9a211a4c13_o.jpg",
+        "actual_caption": "4th of July 2006_02",
+        "generated_caption": "a woman sitting on the grass"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/75/182032528_17ec63777b_o.jpg",
+        "actual_caption": "4th of July 2006_03",
+        "generated_caption": "a green blanket"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/69/182032576_a09aab38d5_o.jpg",
+        "actual_caption": "4th of July 2006_04",
+        "generated_caption": "a baby sitting on the grass"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/63/182032611_68c500a128_o.jpg",
+        "actual_caption": "4th of July 2006_05",
+        "generated_caption": "a man laying on a bounce ball"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/49/182032639_404c79a863_o.jpg",
+        "actual_caption": "4th of July 2006_06",
+        "generated_caption": "a girl in a bounce house"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/65/182032661_667a1cbd8f_o.jpg",
+        "actual_caption": "4th of July 2006_07",
+        "generated_caption": "a girl jumping on a bouncer"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/53/182032720_aea020bfe8_o.jpg",
+        "actual_caption": "4th of July 2006_08",
+        "generated_caption": "a girl in a bounce house"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/73/182032759_b007ade878_o.jpg",
+        "actual_caption": "4th of July 2006_09",
+        "generated_caption": "a large inflatable bouncer"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/56/182032379_dfda6208b2_o.jpg",
+        "actual_caption": "4th of July 2006_10",
+        "generated_caption": "a man and woman sitting on a bench"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/75/182023789_3abf7450b4_o.jpg",
+        "actual_caption": "Ben Franklin and Sam Adams",
+        "generated_caption": "a man and woman dressed up as pirates"
+    },
+    {
+        "image_url": "https://farm1.staticflickr.com/73/182023790_ace6de80e3_o.jpg",
+        "actual_caption": "Ben Franklin",
+        "generated_caption": "a man dressed as a pirate standing in a room"
+    }
+]
